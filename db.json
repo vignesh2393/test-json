@@ -13,6 +13,22 @@
       "title": "Post 3"
     }
   ],
+
+  "cities": [
+    {
+      "id": 1,
+      "name": "SRGM"
+    },
+    {
+      "id": 2,
+      "name": "TP"
+    }
+    {
+      "id": 3,
+      "name": "TPJ"
+    }
+  ],  
+  
   "comments": [
     {
       "id": 1,
