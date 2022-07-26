@@ -27,19 +27,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "cities": [
-    {
-      "name": "Srirangam",
-      "desc": "Srirangam"
-    },
-    {
-      "name": "Tiruvanaikoil",
-      "desc": "Tiruvanaikoil"
-    },
-    {
-      "name": "RockFort",
-      "desc": "RockFort"
-    }
-  ]
+  }
 }
