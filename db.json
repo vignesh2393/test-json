@@ -13,7 +13,6 @@
       "title": "Post 3"
     }
   ],
-
   "cities": [
     {
       "id": 1,
@@ -27,8 +26,7 @@
       "id": 3,
       "name": "TPJ"
     }
-  ],  
-  
+  ],
   "comments": [
     {
       "id": 1,
